@@ -5,7 +5,7 @@
 | Akpanudo, Mmadara Ekponudim | [mmadaraakpanudo](https://github.com/mmadaraakpanudo) | 23/EG/ME/030 |
 | Atinam, Richman | [RichyAty](https://github.com/RichyAty) | 23/EG/ME/040 |
 | Amah, Christian James| [amahchristian0-coder](https://github.com/amahchristian0-coder) | 23/EG/ME/060 |
-|  Member Four | [@member4](https://github.com/member4) | 23/EG/ME/XXXX |
+|  David Wisdom Ekpedeme | [bomberJnr](https://github.com/bomberJnr) | 23/EG/ME/050 |
 |  Member Five | [@member5](https://github.com/member5) | 23/EG/ME/XXXX |
 |  Member Six | [@member6](https://github.com/member6) | 23/EG/ME/XXXX |
 |  Member Seven | [@member7](https://github.com/member7) | 23/EG/ME/XXXX |
