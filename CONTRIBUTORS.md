@@ -10,4 +10,4 @@
 | Sam, Goodnews Sunday | [SamGoodnews](https://github.com/SamGoodnews) | 23/EG/ME/080 |
 |  Umoren, Aniekeme-Abasi Christopher| [aniumoren-del](https://github.com/member7) | 23/EG/ME/100|
 |  Enwenwen, Mfoniso Francis | [Raptor00111](https://github.com/Raptor00111) | 23/EG/ME/010 |
-|  Member Nine | [@member9](https://github.com/member9) | 23/EG/ME/XXXX |
+|  Emesiana Benjamin Ikanna| [Emesiana-Ikenna](https://github.com/Emesiana-Ikenna) | 23/EG/ME/110 |
