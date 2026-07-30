@@ -9,5 +9,5 @@
 | Udo, Gideon-Gold Imefon | [doblghi](https://github.com/doblghi) | 23/EG/ME/023 |
 | Sam, Goodnews Sunday | [SamGoodnews](https://github.com/SamGoodnews) | 23/EG/ME/080 |
 |  Umoren, Aniekeme-Abasi Christopher| [aniumoren-del](https://github.com/member7) | 23/EG/ME/100|
-|  Member Eight | [@member8](https://github.com/member8) | 23/EG/ME/XXXX |
+|  Enwenwen, Mfoniso Francis | [Raptor00111](https://github.com/Raptor00111) | 23/EG/ME/010 |
 |  Member Nine | [@member9](https://github.com/member9) | 23/EG/ME/XXXX |
