@@ -1,7 +1,7 @@
 # Contributors
 
 | Name | GitHub Username | Reg No |
-|------|-----------------|--------|
+|DAVID WISDOM EKPEDEME|bomberJnr|23/EG/ME/050|(https://github.com/bomberJnr)
 | Akpanudo, Mmadara Ekponudim | [mmadaraakpanudo](https://github.com/mmadaraakpanudo) | 23/EG/ME/030 |
 | Atinam, Richman | [RichyAty](https://github.com/RichyAty) | 23/EG/ME/040 |
 | Member Three | [@member3](https://github.com/member3) | 23/EG/ME/XXXX |
