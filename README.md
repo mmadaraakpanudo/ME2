@@ -110,7 +110,7 @@ ME2/
 
 > Full learning curves and confusion matrices are saved in `results/`.
 
-## Contributors
+## Contributors.
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list of names, GitHub usernames, and registration numbers.
 
