@@ -30,7 +30,7 @@ streamlit run app.py
 
 The app will open automatically at **http://localhost:8501**
 
-**Streamlit Cloud URL:** **
+**Streamlit Cloud URL:** *https://wartsvsmoles.streamlit.app/*
 ---
 
 ## Environment Setup
