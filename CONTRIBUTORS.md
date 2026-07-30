@@ -3,7 +3,7 @@
 | Name | GitHub Username | Reg No |
 |------|-----------------|--------|
 | Akpanudo, Mmadara Ekponudim | [mmadaraakpanudo](https://github.com/mmadaraakpanudo) | 23/EG/ME/030 |
-| Atinam, Richman | [@RichyAty](https://github.com/RichyAty) | 23/EG/ME/040 |
+| Atinam, Richman | [RichyAty](https://github.com/RichyAty) | 23/EG/ME/040 |
 | Member Three | [@member3](https://github.com/member3) | 23/EG/ME/XXXX |
 |  Member Four | [@member4](https://github.com/member4) | 23/EG/ME/XXXX |
 |  Member Five | [@member5](https://github.com/member5) | 23/EG/ME/XXXX |
